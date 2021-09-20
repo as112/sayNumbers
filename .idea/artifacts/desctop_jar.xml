@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="desctop:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/desctop_jar</output-path>
+    <root id="archive" name="desctop.jar">
+      <element id="module-output" name="desctop" />
+    </root>
+  </artifact>
+</component>
